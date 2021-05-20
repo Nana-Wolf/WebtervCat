@@ -1,0 +1,2 @@
+a:4:{s:8:"username";s:10:"Pelda Bela";s:6:"jelszo";s:6:"123456";s:5:"email";s:14:"123456@789.com";s:5:"bdate";i:21;}a:4:{s:8:"username";s:10:"Pelda Bela";s:6:"jelszo";s:6:"123456";s:5:"email";s:14:"123456@789.com";s:5:"bdate";i:21;}
+a:4:{s:8:"username";s:5:"Netti";s:6:"jelszo";s:7:"krumpli";s:5:"email";s:23:"nettikovacs73@gmail.com";s:5:"bdate";i:19;}

@@ -1,0 +1,73 @@
+
+h1{
+    text-align: center;
+    font-size: 350%;
+    font-family: Arial;
+    background-color: #5d4433;
+    color: #dead8e;
+}
+.content{
+    background: #5d4433;
+    color: #fff;
+    top: 10%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, 10%);
+    box-sizing: border-box;
+    padding: 0 30px;
+    border-radius: 25px;
+}
+.content input{
+    width: 100%;
+    margin-bottom: 20px;
+    font-family: "Arial";
+}
+
+.content input[type="text"], input[type="password"], input[type="email"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 50px;
+    color: #fff;
+    font-size: 15px;
+}
+.content input[type="date"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 50px;
+    color: #fff;
+    font-size: 15px;
+}
+.content input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #d29c1f;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.content input[type="submit"]:hover{
+    cursor: pointer;
+    background: #f7bf1f;
+    color: black;
+}
+
+.content a:hover{
+    color: #be914c;
+}
+h2{
+    text-align: center;
+    font-size: 27px;
+}
+label{
+    color:lightgrey;
+}
+#borderimage { 
+  border: 30px solid transparent;
+  padding: 20px;
+  border-image: url(../img/border.png) 200 stretch;
+}

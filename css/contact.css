@@ -1,0 +1,87 @@
+h1{
+    text-align: center;
+    font-size: 350%;
+    font-family: Arial;
+    background-color: #5d4433;
+    color: #dead8e;
+}
+
+.content{
+    width: 360px;
+    height: 380px;
+    background: #5d4433;
+    color: #fff;
+    top: 10%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, 30%);
+    box-sizing: border-box;
+    padding: 0 30px;
+    border-radius: 25px;
+}
+.content input{
+    width: 100%;
+    margin-bottom: 20px;
+    font-family: "Arial";
+}
+.content input[type="text"], input[type="password"]{
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 50px;
+    color: #fff;
+    font-size: 15px;
+}
+.content input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #d29c1f;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 10px;
+}
+.content input[type="submit"]:hover{
+    cursor: pointer;
+    background: #f7bf1f;
+    color: black;
+}
+.content a{
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 20px;
+    color: darkgrey;
+    font-family: "Arial";
+}
+.content a:hover{
+    color: #be914c;
+}
+h2{
+    text-align: center;
+    font-size: 27px;
+}
+p{
+    font-size: 20px;
+}
+
+.gallery{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 25px;
+    animation-name: animacio;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+}
+
+@keyframes animacio {
+    0%   {left: 0px; top:0px;}
+    25%  {left:0px; top:400px; opacity: 80%}
+    50%  {left:1210px; top:400px; opacity: 50%}
+    75%  {left:1210px; top:0px; opacity: 50%}
+    100% {left:1210px; top:0px; opacity: 90%}
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}

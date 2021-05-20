@@ -1,0 +1,16 @@
+a:6:{s:7:"catname";s:5:"Gizmo";s:5:"breed";s:4:"cuki";s:7:"vaccine";s:8:"mindenis";s:3:"age";s:2:"11";s:6:"gender";s:2:"on";s:5:"color";s:7:"#004080";}
+a:6:{s:7:"catname";s:4:"Guzi";s:5:"breed";s:9:"megcukibb";s:7:"vaccine";s:6:"vannak";s:3:"age";s:2:"12";s:6:"gender";s:2:"on";s:5:"color";s:7:"#800080";}
+a:6:{s:7:"catname";s:4:"cica";s:5:"breed";s:4:"cica";s:7:"vaccine";s:3:"van";s:3:"age";s:2:"11";s:6:"gender";s:2:"on";s:5:"color";s:7:"#80ff00";}
+a:6:{s:7:"catname";s:4:"cica";s:5:"breed";s:4:"cica";s:7:"vaccine";s:3:"van";s:3:"age";s:1:"1";s:6:"gender";s:2:"on";s:5:"color";s:7:"#008080";}
+a:6:{s:7:"catname";s:8:"Cicahusi";s:5:"breed";s:3:"kis";s:7:"vaccine";s:3:"van";s:3:"age";s:1:"1";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:8:"Cicahusi";s:5:"breed";s:7:"narancs";s:7:"vaccine";s:3:"van";s:3:"age";s:2:"11";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:5:"gizmo";s:5:"breed";s:7:"narancs";s:7:"vaccine";s:3:"van";s:3:"age";s:2:"11";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:5:"gizmo";s:5:"breed";s:7:"narancs";s:7:"vaccine";s:3:"van";s:3:"age";s:2:"11";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:6:"macsek";s:5:"breed";s:6:"macsek";s:7:"vaccine";s:6:"macsek";s:3:"age";s:1:"1";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:5:"Gizmo";s:5:"breed";s:8:"hugjhéu";s:7:"vaccine";s:4:"jgkg";s:3:"age";s:1:"4";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:5:"Gizmo";s:5:"breed";s:3:"fhj";s:7:"vaccine";s:4:"f,gj";s:3:"age";s:1:"4";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:4:"sdfg";s:5:"breed";s:2:"sd";s:7:"vaccine";s:4:"dsfg";s:3:"age";s:1:"5";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:8:"Praliné";s:5:"breed";s:2:"sd";s:7:"vaccine";s:3:"aes";s:3:"age";s:1:"1";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:4:"sdfg";s:5:"breed";s:2:"sd";s:7:"vaccine";s:3:"aes";s:3:"age";s:1:"2";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:8:"Praliné";s:5:"breed";s:2:"kk";s:7:"vaccine";s:2:"ll";s:3:"age";s:1:"1";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
+a:6:{s:7:"catname";s:4:"sdfg";s:5:"breed";s:5:"lkjhv";s:7:"vaccine";s:3:"kjh";s:3:"age";s:2:"12";s:6:"gender";s:2:"on";s:5:"color";s:7:"#000000";}
